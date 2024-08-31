@@ -52,7 +52,7 @@ Este é um simples gerador de QR Code que permite aos usuários gerar, copiar o 
 
 Se você tiver alguma dúvida ou sugestão, entre em contato:
 - **E-mail**: diegospd22@gmail.com
-- **LinkedIn**: [Clique aqui!](https://www.linkedin.com/in/diego-pereira-dev)
+- **LinkedIn**: [Clique aqui!](https://www.linkedin.com/in/pereira-diego-dev/)
 
 ---
 
